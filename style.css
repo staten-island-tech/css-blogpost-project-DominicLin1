@@ -1,6 +1,6 @@
 body
 {
-background-color: blueviolet;
+    background-color: black;
 color: aliceblue;
 font-size: 20px;
 }
@@ -15,10 +15,27 @@ padding: 100px;;}
     color:gold;
     font-size: 30pt;
     font-style:italic; 
+    font-family: cursive;
     text-align:center;
+    margin: 0px auto;
 }
 .main-header{
     text-align: center;
+     border: 10px solid white;
+     margin: 20px auto;
     
- border: 10pt solid black;
     }
+   .background {
+    background-color: black;
+    background-image: url();
+    text-align: center;
+    border: 10px solid white;
+    margin: 20px auto;
+    .main-header{
+        text-align: center;
+         border: 10px solid white;
+         margin: 20px auto;
+   }
+   body{
+
+   }
