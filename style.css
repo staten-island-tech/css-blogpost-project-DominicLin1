@@ -1,41 +1,43 @@
 body
 {
-    background-color: black;
+    background-color: white;
 color: aliceblue;
-font-size: 20px;
+font-size: 100px;
 }
-h1{ 
+
+.main-header{
+color; white 
+padding: 100px;
+text-align: center;
+border: 10px solid white;
+width: auto 100px;
+margin: 20px auto;
+ 
     color: darkblue;
     font-style:italic
 }
-.main-header{
-color: white; 
-padding: 100px;;}
 #List{
     color:gold;
     font-size: 30pt;
     font-style:italic; 
     font-family: cursive;
     text-align:center;
-    margin: 0px auto;
-}
-.main-header{
-    text-align: center;
-     border: 10px solid white;
-     margin: 20px auto;
+    border: 10px solid black;
+    width: 45vw ;
+    margin:10px auto;
     
+}
+    .Youtube {
+       background-image: url("https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg"); 
+       background-color: black;
     }
-   .background {
-    background-color: black;
-    background-image: url();
-    text-align: center;
-    border: 10px solid white;
-    margin: 20px auto;
-    .main-header{
-        text-align: center;
-         border: 10px solid white;
-         margin: 20px auto;
-   }
-   body{
+    .Google
+    back
 
+   .background {
+    background-color: blue;
+    text-align: center;
+    
+    margin: 20px auto;
    }
+   
