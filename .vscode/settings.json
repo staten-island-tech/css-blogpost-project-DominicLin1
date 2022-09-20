@@ -20,7 +20,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "window.zoomLevel": 0,
+  "window.zoomLevel": -1,
   "workbench.colorTheme": "Outrun Night",
   "workbench.iconTheme": "material-icon-theme",
   "editor.parameterHints.enabled": false,
