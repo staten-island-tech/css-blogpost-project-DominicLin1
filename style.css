@@ -1,19 +1,20 @@
 body
 {
-    background-color: white;
-color: aliceblue;
+    background-color:lightblue;
+color: purple;
 font-size: 100px;
 }
 
 .main-header{
-color; white 
-padding: 100px;
+
+padding: 10px;
 text-align: center;
-border: 10px solid white;
-width: auto 100px;
+border: 3px solid black;
+width:50vw;
 margin: 20px auto;
+font-size: 50px;
  
-    color: darkblue;
+    color: darkblue; 
     font-style:italic
 }
 #List{
@@ -25,19 +26,25 @@ margin: 20px auto;
     border: 10px solid black;
     width: 45vw ;
     margin:10px auto;
-    
+    background-color: blueviolet;
 }
     .Youtube {
-       background-image: url("https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg"); 
+        background-image: url(youtube.jpg);
+    }
+    .Google{
+        background-color: black;
+    }
+    
+    .vscode {
        background-color: black;
     }
-    .Google
-    back
 
    .background {
-    background-color: blue;
+
     text-align: center;
-    
+    background-color:blue;
     margin: 20px auto;
+    width: 60vw;
+    
    }
    
