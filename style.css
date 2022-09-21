@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: grey;
   color: purple;
   font-size: 25px;
 }
@@ -40,7 +40,13 @@ body {
 
 .background {
   text-align: center;
-  background-color: white;
+  background-color: black;
   margin: 20px auto;
   width: 60vw;
+}
+.image2 {
+  width: 45vw;
+}
+.image3 {
+  width: 30vw;
 }
