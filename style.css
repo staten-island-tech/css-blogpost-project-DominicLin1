@@ -27,15 +27,17 @@ body {
   background-color: blueviolet;
 }
 .Youtube {
-  color: black;
+  color: blueviolet;
   font-size: 100px;
 }
 .Google {
-  background-color: black;
+  color: blueviolet;
+  font-size: 100px;
 }
 
-.vscode {
-  background-color: black;
+.Vscode {
+  color: blueviolet;
+  font-size: 100px;
 }
 
 .background {
